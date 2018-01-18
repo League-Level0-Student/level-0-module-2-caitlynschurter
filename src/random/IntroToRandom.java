@@ -16,6 +16,7 @@ public class IntroToRandom {
 		//2. Now make r random. 
 		//   Create an object of the Random class
 		//   Hint: new Random().nextInt()
+r= new Random().nextInt(88- -222) + -222;
 
 		//3. Limit the random number between 0 and 100
 
